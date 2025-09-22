@@ -46,11 +46,13 @@ Watch the screen recording demo of the dashboard here:
 
 ---
 
-## 📁 Repo structure
-/icons/ # icons used in the dashboard (PNG / SVG)
-Dashboard.xlsx # main Excel file (contains Power Query transformations, pivot cache & dashboard)
-Final_Dashboard.png # screenshot of the final result (screen capture)
-README.md # this file
+## 📂 Repository Structure
+
+- `/icons/` → icons used in the dashboard (PNG / SVG)  
+- `Dashboard.xlsx` → main Excel file (contains Power Query transformations, pivot cache & dashboard)  
+- `Final_Dashboard.png` → screenshot of the final result (screen capture)  
+- `README.md` → this file
+  
 
 ## 📊 Using the Dashboard (important)
 - You can open `Dashboard.xlsx` immediately and explore the interactive dashboard — the file already contains the cleaned data snapshot via Pivot Tables, so you **do not** need the original 90MB raw file just to view the visuals.
