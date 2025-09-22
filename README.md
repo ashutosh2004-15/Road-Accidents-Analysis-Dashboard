@@ -42,7 +42,7 @@ This project helps spot trends by vehicle type, road type, time trends, severity
 
 ## ▶️ Demo
 Watch the screen recording demo of the dashboard here:  
-👉 [Add demo / video link here]
+👉 [https://lnkd.in/p/dEMjyDZt]
 
 ---
 
